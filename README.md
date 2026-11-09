@@ -28,3 +28,5 @@ Badge progress: PR #13 merged for Pull Shark bronze.
 Badge progress: PR #14 merged for Pull Shark bronze.
 
 Badge progress: PR #15 merged for Pull Shark bronze.
+
+Badge progress: PR #16 merged for Pull Shark bronze.
